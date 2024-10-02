@@ -42,3 +42,18 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+![p1](https://github.com/user-attachments/assets/1e9bae7a-4895-43f1-85e1-5de8ff52c434)
+
+![p2](https://github.com/user-attachments/assets/3284998c-db21-45ff-a840-616f2579d6b6)
+
+![m2](https://github.com/user-attachments/assets/0c65ff21-6c4c-4706-96c3-e6c225a4db57)
+
+
+![l1](https://github.com/user-attachments/assets/0dfd4901-be63-4378-b345-0158de3e5dc9)
+
+
+![l2](https://github.com/user-attachments/assets/1df13146-682b-4167-bac8-35145e16a3c5)
+
+![l3](https://github.com/user-attachments/assets/3d5e5802-2506-43b5-b8d7-a6142523fbf4)
+
